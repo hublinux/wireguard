@@ -2,5 +2,7 @@
 #### 适用于CentOS7
 #### wireguard_install.sh 单用户版，如需增加用户需要手动增加
 
+chmod +x wireguard_install.sh && ./wireguard_install.sh
+
 
 
